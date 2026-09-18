@@ -71,29 +71,10 @@ GitHub Actions • SonarQube • Trivy • CodeQL • Docker
 
 ---
 
-📚 Currently Learning
-
-- Cloud-native architecture
-- Advanced Kubernetes & OpenShift
-- GitOps
-- Infrastructure as Code
-- AI Agents
-- RAG architectures
-- LLM application engineering
-- MCP
-- AI observability
-
----
-
-📈 GitHub Activity
-
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=bassamraouafi&show_icons=true&hide_border=true)
-
----
-
 📫 Connect
 
-- GitHub: "@bassamraouafi" (https://github.com/bassamraouafi)
+- 💻 GitHub: "@bassamraouafi" (https://github.com/bassamraouafi)
+- 💼 LinkedIn: "Bassam Raouafi" (https://www.linkedin.com/in/bassam-raouafi)
 
 ---
 

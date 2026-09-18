@@ -1,16 +1,100 @@
-## Hi there 👋
+Hi, I'm Bassam 👋
 
-<!--
-**bassamraouafi/bassamraouafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps • Cloud • AI Engineer
 
-Here are some ideas to get you started:
+I build cloud-native applications, CI/CD platforms and AI-powered systems with a focus on automation, reliability and scalable architectures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🚀 What I Build
+
+- ⚙️ CI/CD pipelines and automation
+- ☁️ Cloud-native applications and infrastructure
+- 🐳 Containerized applications
+- 🔄 GitOps and Kubernetes/OpenShift deployments
+- 🔐 DevSecOps pipelines and security automation
+- 🤖 AI agents and LLM-powered applications
+- 🧠 RAG and intelligent automation
+- 📊 Observability and monitoring
+
+---
+
+🛠️ Tech Stack
+
+DevOps & Cloud
+
+"Docker" "Kubernetes" "OpenShift" "Helm" "Argo CD" "Jenkins" "GitHub Actions" "Ansible" "Terraform"
+
+CI/CD & DevSecOps
+
+"Git" "Bitbucket" "Artifactory" "SonarQube" "Trivy" "Checkmarx"
+
+Observability
+
+"Prometheus" "Grafana" "Alertmanager" "OpenTelemetry"
+
+Backend & Development
+
+"Python" "FastAPI" "Java" "TypeScript" "Angular" "REST APIs"
+
+AI Engineering
+
+"LLM" "RAG" "LangChain" "LangGraph" "AI Agents" "MCP"
+
+---
+
+⭐ Featured Projects
+
+🚀 DevOps Platform
+
+A production-oriented DevOps platform demonstrating CI/CD, containerization, security, deployment and observability.
+
+Docker • GitHub Actions • Kubernetes • Helm • Prometheus • Grafana
+
+🤖 AI Agent Platform
+
+An AI platform demonstrating agent orchestration, LLM integration, tools, RAG and observability.
+
+Python • FastAPI • LangGraph • RAG • LLM • Docker
+
+☁️ GitOps Platform
+
+A GitOps deployment platform using declarative infrastructure and continuous delivery.
+
+Kubernetes • OpenShift • Helm • Argo CD • GitHub Actions
+
+🔐 DevSecOps Pipeline
+
+A secure CI/CD pipeline integrating code quality, vulnerability scanning and container security.
+
+GitHub Actions • SonarQube • Trivy • CodeQL • Docker
+
+---
+
+📚 Currently Learning
+
+- Cloud-native architecture
+- Advanced Kubernetes & OpenShift
+- GitOps
+- Infrastructure as Code
+- AI Agents
+- RAG architectures
+- LLM application engineering
+- MCP
+- AI observability
+
+---
+
+📈 GitHub Activity
+
+"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=bassamraouafi&show_icons=true&hide_border=true)
+
+---
+
+📫 Connect
+
+- GitHub: "@bassamraouafi" (https://github.com/bassamraouafi)
+
+---
+
+«Building reliable infrastructure and intelligent software, one project at a time.»
